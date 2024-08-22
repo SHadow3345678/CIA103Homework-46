@@ -19,12 +19,12 @@ public class Hw817456 {
 		
 //		6請寫一隻程式,利用System.out.println()印出以下三個運算式結果:
 		
-//		System.out.println(5 + 5);
+		System.out.println(5 + 5);
 //		// 5+5=10
-//		System.out.println(5 + '5');
+		System.out.println(5 + '5');
 //		// 5+字元=5+53
-//		System.out.println(5 + "5");
-//		// 5+字串=5(int)5(String)
+		System.out.println(5 + "5");
+		// 5+字串=5(int)5(String)
 		
 		
 		
