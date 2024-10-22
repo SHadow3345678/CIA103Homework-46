@@ -39,7 +39,7 @@ public class Hw21_4 {
 	    			 for (u = 1 ; u <= 10 ; u++) {
 	    		    		    k = u;
 	    		    		    k *=k;
-	    		    	System.out.print(k + "\t");
+	    		    	System.out.print(k + " ");
 	    			 }	
 		
 		
